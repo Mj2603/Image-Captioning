@@ -1,7 +1,8 @@
 # Image-Captioning
-Image Captioning (Keras) Image Captioning System that generates natural language captions for any image. 
+Image Captioning (Keras)System that generates natural language captions for any image. 
 
-—Image captioning is the process of generating
+# Description
+Image captioning is the process of generating
 descriptions about what is going on in the image. By the help of
 Image Captioning descriptions are built which explain about the
 images. Image Captioning is basically very much useful in many
