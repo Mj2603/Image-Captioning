@@ -1,10 +1,9 @@
-# Image-Captioning using Comouter vision and NLP
-Image Captioning (Keras)System that generates natural language captions for any image. 
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/Python-3.7-blue.svg)
 [![CodeScene Code Health](https://codescene.io/projects/8416/status-badges/code-health)](https://codescene.io/projects/8416)
-# Image-Caption-Generator-Using-Deep-Learning
+# Image-Captioning using Comouter vision and NLP
 <p>A Deep Neural Network based generative model for captioning images using CNN and LSTM with BEAM Search..</p>
 <p>Automatically generates captions for an image using CNN and NLP. Model was trained on Flickr30K dataset.</p>
 <p>Kaggle kernel: <a href="https://www.kaggle.com/ntikmr/image-captioning">https://www.kaggle.com/ntikmr/image-captioning</a>
