@@ -1,15 +1,35 @@
-# Image-Captioning
+# Image-Captioning using Comouter vision and NLP
 Image Captioning (Keras)System that generates natural language captions for any image. 
 
-# Description
-Image captioning is the process of generating
-descriptions about what is going on in the image. By the help of
-Image Captioning descriptions are built which explain about the
-images. Image Captioning is basically very much useful in many
-applications like analyzing large amounts of unlabeled images
-and finding hidden patterns for Machine Learning Applications
-for guiding Self driving cars and for building software that
-guides blind people. This Image Captioning can be done by
-using Deep Learning Models. With the advancement of deep
-learning and Natural Language Processing now it has become
-easy to generate captions for the given images
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Python](https://img.shields.io/badge/Python-3.7-blue.svg)
+[![CodeScene Code Health](https://codescene.io/projects/8416/status-badges/code-health)](https://codescene.io/projects/8416)
+# Image-Caption-Generator-Using-Deep-Learning
+<p>A Deep Neural Network based generative model for captioning images using CNN and LSTM with BEAM Search..</p>
+<p>Automatically generates captions for an image using CNN and NLP. Model was trained on Flickr30K dataset.</p>
+<p>Kaggle kernel: <a href="https://www.kaggle.com/ntikmr/image-captioning">https://www.kaggle.com/ntikmr/image-captioning</a>
+
+<h2>Steps to install</h2>
+<ul>
+  <li>Clone the entire repository into a new folder.</li>
+  <li>Install the required dependencies using pip</li>
+  <li>Open <a href="gui.py">gui.py</a> and run the file</li>
+</ul>
+
+<h2> Pre-Requisites</h2>
+<ul>
+  <li>Tensorflow V2.0</li>
+  <li>pandas</li>
+  <li>numpy</li>
+  <li>pickle</li>
+  <li>PIL</li>
+  <li>OpenCv</li>
+</ul>
+
+<h2>Examples </h2>
+<img src = "/images/snow.png">
+<img src = "/images/group.png">
+<img src = "/images/dog.png">
+<img src = "/images/race.png">
+<img src = "/images/guitar.png">
+<img src = "/images/work.png">
